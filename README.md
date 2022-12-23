@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aaronabele
+- 👋 Hi, I’m Aaron
 - 🌱 I’m currently learning HTML5, CSS3, 
      JS and Vue.js
 - 🧑‍💻 My current Tech Skills are VBA, MS Access and T-SQL       
