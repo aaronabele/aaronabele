@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aaron 
+👋 Hi, I’m Aaron 
 
 <!---
 aaronabele/aaronabele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
