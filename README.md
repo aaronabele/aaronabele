@@ -1,4 +1,5 @@
 👋 Hi, I’m Aaron 
+
 👨‍💻 Junior Consultant at BTC Business Technology Consulting AG
   - Microsoft Dynamics CRM
   - Microsoft Business Central
